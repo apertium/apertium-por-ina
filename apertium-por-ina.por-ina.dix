@@ -12,7 +12,276 @@
 
    <section id="main" type="standard">
       <!-- Define entries within <e> here. -->
-      <e><p><l>house<s n="n"/><s n="sg"/></l><r>house<s n="n"/><s n="sg"/></r></p></e>
+      
+            <!-- Nouns       -->
+           <e><p><l>cão<s n="n"/><s n="m"/></l><r>can<s n="n"/></r></p></e>
+           <e><p><l>homem<s n="n"/><s n="m"/></l><r>homine<s n="n"/></r></p></e>
+           <e><p><l>mulher<s n="n"/><s n="f"/></l><r>femina<s n="n"/></r></p></e>
+           <e><p><l>animal<s n="n"/><s n="m"/></l><r>animal<s n="n"/></r></p></e>
+           <e><p><l>árvore<s n="n"/><s n="f"/></l><r>arbore<s n="n"/></r></p></e>
+           <e><p><l>coisa<s n="n"/><s n="f"/></l><r>cosa<s n="n"/></r></p></e>
+           <e><p><l>pássaro<s n="n"/><s n="m"/></l><r>ave<s n="n"/></r></p></e>
+           <e><p><l>folha<s n="n"/><s n="f"/></l><r>folio<s n="n"/></r></p></e>
+           <e><p><l>floresta<s n="n"/><s n="m"/></l><r>foreste<s n="n"/></r></p></e>
+           <e><p><l>fruta<s n="n"/><s n="m"/></l><r>fructo<s n="n"/></r></p></e>
+           <e><p><l>criança<s n="n"/><s n="m"/></l><r>infante<s n="n"/></r></p></e>
+           <e><p><l>mulher<s n="n"/><s n="f"/></l><r>marita<s n="n"/></r></p></e>
+           <e><p><l>marido<s n="n"/><s n="m"/></l><r>marito<s n="n"/></r></p></e>
+           <e><p><l>mãe<s n="n"/><s n="f"/></l><r>matre<s n="n"/></r></p></e>
+           <e><p><l>pai<s n="n"/><s n="m"/></l><r>patre<s n="n"/></r></p></e>
+           <e><p><l>pé<s n="n"/><s n="m"/></l><r>pediculo<s n="n"/></r></p></e>
+           <e><p><l>peixe<s n="n"/><s n="m"/></l><r>pisce<s n="n"/></r></p></e>
+           <e><p><l>raiz<s n="n"/><s n="f"/></l><r>radice<s n="n"/></r></p></e>
+           <e><p><l>semente<s n="n"/><s n="f"/></l><r>semine<s n="n"/></r></p></e>
+           <e><p><l>serpente<s n="n"/><s n="m"/></l><r>serpente<s n="n"/></r></p></e>
+           <e><p><l>verme<s n="n"/><s n="m"/></l><r>verme<s n="n"/></r></p></e>
+           <e><p><l>cavalo<s n="n"/><s n="m"/></l><r>equo<s n="n"/></r></p></e>
+           <e><p><l>carro<s n="n"/><s n="f"/></l><r>carro<s n="n"/></r></p></e>
+           <e><p><l>família<s n="n"/><s n="f"/></l><r>familia<s n="n"/></r></p></e>
+           <e><p><l>casa<s n="n"/><s n="f"/></l><r>domo<s n="n"/></r></p></e>
+           <e><p><l>campanha<s n="n"/><s n="f"/></l><r>campania<s n="n"/></r></p></e>
+           <e><p><l>elefante<s n="n"/><s n="m"/></l><r>elephante<s n="n"/></r></p></e>
+           <e><p><l>vida<s n="n"/><s n="f"/></l><r>vita<s n="n"/></r></p></e>
+           <e><p><l>science<s n="n"/><s n="f"/></l><r>scientia<s n="n"/></r></p></e>
+           <e><p><l>arte<s n="n"/><s n="mf"/></l><r>arte<s n="n"/></r></p></e>
+
+  <!-- Personal pronouns   -->
+            <e><p><l>eu<s n="prn"/><s n="tn"/></l><r>io<s n="prn"/><s n="nom"/></r></p></e>
+            <e><p><l>tu<s n="prn"/><s n="tn"/></l><r>tu<s n="prn"/><s n="nom"/></r></p></e>
+            <e><p><l>ele<s n="prn"/><s n="tn"/></l><r>ill<s n="prn"/><s n="nom"/></r></p></e>
+            <e r="RL"><p><l>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="sg"/></l><r>illo<s n="prn"/><s n="nom"/></r></p></e>
+            <e><p><l>nós<s n="prn"/><s n="tn"/></l><r>nos<s n="prn"/><s n="nom"/></r></p></e>
+            <e><p><l>você<s n="prn"/><s n="tn"/></l><r>vos<s n="prn"/><s n="nom"/></r></p></e>
+            <e r="RL"><p><l>eles<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="pl"/></l><r>illos<s n="prn"/><s n="nom"/></r></p></e>
+
+            <e><p><l>excelente<s n="adj"/></l><r>excellente<s n="adj"/></r></p></e>
+            <e><p><l>e<s n="cnjcoo"/></l><r>e<s n="cnjcoo"/></r></p></e>
+            <e><p><l>ou<s n="cnjcoo"/></l><r>o<s n="cnjcoo"/></r></p></e>
+            <e><p><l>mas<s n="cnjcoo"/></l><r>ma<s n="cnjcoo"/></r></p></e>
+
+
+            <e><p><l>em<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
+            <e><p><l>de<s n="pr"/></l><r>de<s n="pr"/></r></p></e>
+            <e><p><l>com<s n="pr"/></l><r>con<s n="pr"/></r></p></e>
+
+            <e><p><l>muito<s n="preadv"/></l><r>multo<s n="preadv"/></r></p></e>
+            <e><p><l>se<s n="cnjadv"/></l><r>si<s n="cnjadv"/></r></p></e>
+
+            <e><p><l>não<s n="adv"/></l><r>non<s n="adv"/></r></p></e>
+            <e><p><l>nem<s n="adv"/></l><r>jammais<s n="adv"/></r></p></e>
+            <e><p><l>hoje<s n="adv"/></l><r>hodie<s n="adv"/></r></p></e>
+
+            <e><p><l>mais<s n="adv"/></l><r>plus<s n="preadv"/></r></p></e>
+            <e><p><l>atualmente<s n="adv"/></l><r>actualmente<s n="adv"/></r></p></e>
+
+            
+            <e r="LR"><p><l>o<s n="det"/><s n="def"/><s n="m"/><s n="sg"/></l><r>le<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
+            <e r="LR"><p><l>a<s n="det"/><s n="def"/><s n="f"/><s n="sg"/></l><r>le<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
+            <e r="LR"><p><l>os<s n="det"/><s n="def"/><s n="m"/><s n="pl"/></l><r>le<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
+            <e r="LR"><p><l>as<s n="det"/><s n="def"/><s n="f"/><s n="pl"/></l><r>le<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
+
+            <e r="LR"><p><l>meu<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></l><r>mi<s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
+            <e r="LR"><p><l>meu<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></l><r>mi<s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
+            <e r="LR"><p><l>meus<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>mi<s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
+
+            <e r="RL"><p><l>o<s n="det"/><s n="def"/><s n="nd"/><s n="gd"/></l><r>le<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
+
+            <e r="LR"><p><l>um<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></l><r>un<s n="det"/><s n="ind"/><s n="sp"/></r></p></e>
+            <e r="LR"><p><l>uma<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></l><r>un<s n="det"/><s n="ind"/><s n="sp"/></r></p></e>
+            <e r="LR"><p><l>uns<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></l><r>un<s n="det"/><s n="ind"/><s n="sp"/></r></p></e>
+	    <e r="LR"><p><l>umas<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></l><r>un<s n="det"/><s n="ind"/><s n="sp"/></r></p></e>
+
+            <e r="RL"><p><l>um<s n="det"/><s n="ind"/><s n="nd"/><s n="gd"/></l><r>un<s n="det"/><s n="ind"/><s n="sp"/></r></p></e>
+           
+       
+
+           
+           <e><p><l>ser<s n="vblex"/></l><r>esser<s n="vblex"/></r></p></e>
+           <e><p><l>poder<s n="vbmod"/></l><r>poter<s n="vbmod"/></r></p></e>
+           <e><p><l>fazer<s n="vblex"/></l><r>facer<s n="vblex"/></r></p></e>
+           <e><p><l>colocar<s n="vblex"/></l><r>mitter<s n="vblex"/></r></p></e>
+           <e><p><l>dizer<s n="vblex"/></l><r>dicer<s n="vblex"/></r></p></e>
+           <e><p><l>dever<s n="vblex"/></l><r>deber<s n="vblex"/></r></p></e>
+           <e><p><l>dever<s n="vbmod"/></l><r>deber<s n="vbmod"/></r></p></e>
+           <e><p><l>prendre<s n="vblex"/></l><r>prender<s n="vblex"/></r></p></e>
+           <e><p><l>dar<s n="vblex"/></l><r>dar<s n="vblex"/></r></p></e>
+           <e><p><l>ir<s n="vblex"/></l><r>ambular<s n="vblex"/></r></p></e>
+           <e><p><l>querer<s n="vblex"/></l><r>voler<s n="vblex"/></r></p></e>
+           <e><p><l>saber<s n="vblex"/></l><r>saper<s n="vblex"/></r></p></e>
+           <e><p><l>perguntar<s n="vblex"/></l><r>demandar<s n="vblex"/></r></p></e>
+           <e><p><l>vir<s n="vblex"/></l><r>venir<s n="vblex"/></r></p></e>
+           <e><p><l>passar<s n="vblex"/></l><r>passar<s n="vblex"/></r></p></e>
+           <e><p><l>compreender<s n="vblex"/></l><r>comprehender<s n="vblex"/></r></p></e>
+           <e><p><l>ficar<s n="vblex"/></l><r>restar<s n="vblex"/></r></p></e>
+           <e><p><l>mostrar<s n="vblex"/></l><r>monstrar<s n="vblex"/></r></p></e>
+           <e><p><l>viver<s n="vblex"/></l><r>viver<s n="vblex"/></r></p></e>
+           <e><p><l>falar<s n="vblex"/></l><r>parlar<s n="vblex"/></r></p></e>
+           <e><p><l>cantar<s n="vblex"/></l><r>cantar<s n="vblex"/></r></p></e>
+           <e><p><l>comer<s n="vblex"/></l><r>mangiar<s n="vblex"/></r></p></e>
+           <e><p><l>ler<s n="vblex"/></l><r>leger<s n="vblex"/></r></p></e>
+           <e><p><l>beber<s n="vblex"/></l><r>biber<s n="vblex"/></r></p></e>
+           <e><p><l>nadar<s n="vblex"/></l><r>natar<s n="vblex"/></r></p></e>
+           <e><p><l>acreditar<s n="vblex"/></l><r>creder<s n="vblex"/></r></p></e>
+           <e><p><l>amar<s n="vblex"/></l><r>amar<s n="vblex"/></r></p></e>
+           <e><p><l>renunciar<s n="vblex"/></l><r>renunciar<s n="vblex"/></r></p></e>
+           <e><p><l>perguntar<s n="vblex"/></l><r>demandar<s n="vblex"/></r></p></e>
+           <e><p><l>viver<s n="vblex"/></l><r>vider<s n="vblex"/></r></p></e>
+           <e><p><l>partir<s n="vblex"/></l><r>partir<s n="vblex"/></r></p></e>
+           <e><p><l>morrer<s n="vblex"/></l><r>morir<s n="vblex"/></r></p></e>
+           <e><p><l>ouvir<s n="vblex"/></l><r>audir<s n="vblex"/></r></p></e>
+           <e><p><l>dormir<s n="vblex"/></l><r>dormir<s n="vblex"/></r></p></e>
+           <e><p><l>ter<s n="vblex"/></l><r>haber<s n="vblex"/></r></p></e>
+           <e><p><l>chercher<s n="vblex"/></l><r>cercar<s n="vblex"/></r></p></e>
+           <e><p><l>pensar<s n="vblex"/></l><r>pensar<s n="vblex"/></r></p></e>
+           <e><p><l>continuar<s n="vblex"/></l><r>continuar<s n="vblex"/></r></p></e>
+           <e><p><l>seguir<s n="vblex"/></l><r>sequer<s n="vblex"/></r></p></e>
+           <e><p><l>saber<s n="vblex"/></l><r>cognoscer<s n="vblex"/></r></p></e>
+           <e><p><l>contar<s n="vblex"/></l><r>contar<s n="vblex"/></r></p></e>
+           <e><p><l>chamar<s n="vblex"/></l><r>appellar<s n="vblex"/></r></p></e>
+           <e><p><l>permitir<s n="vblex"/></l><r>permitter<s n="vblex"/></r></p></e>
+           <e><p><l>ocupar<s n="vblex"/></l><r>occupar<s n="vblex"/></r></p></e>
+           <e><p><l>decidir<s n="vblex"/></l><r>decider<s n="vblex"/></r></p></e>
+           <e><p><l>chegar<s n="vblex"/></l><r>arrivar<s n="vblex"/></r></p></e>
+           <e><p><l>servir<s n="vblex"/></l><r>servir<s n="vblex"/></r></p></e>
+           <e><p><l>deixar<s n="vblex"/></l><r>lassar<s n="vblex"/></r></p></e>
+           <e><p><l>receber<s n="vblex"/></l><r>reciper<s n="vblex"/></r></p></e>            
+           <e><p><l>responder<s n="vblex"/></l><r>responder<s n="vblex"/></r></p></e>
+
+
+     
+           <e><p><l>amigável<s n="adj"/></l><r>amic<s n="adj"/></r></p></e>
+           <e><p><l>antigo<s n="adj"/></l><r>ancian<s n="adj"/></r></p></e>
+           <e><p><l>outro<s n="adj"/></l><r>altere<s n="adj"/></r></p></e>
+           <e><p><l>bonito<s n="adj"/></l><r>belle<s n="adj"/></r></p></e>
+           <e><p><l>estranho<s n="adj"/></l><r>bizarre<s n="adj"/></r></p></e>
+           <e><p><l>azul<s n="adj"/></l><r>azur<s n="adj"/></r></p></e>
+           <e><p><l>bom<s n="adj"/></l><r>bon<s n="adj"/></r></p></e>
+           <e><p><l>quente<s n="adj"/></l><r>calide<s n="adj"/></r></p></e>
+           <e><p><l>caro<s n="adj"/></l><r>car<s n="adj"/></r></p></e>
+           <e><p><l>claro<s n="adj"/></l><r>clar<s n="adj"/></r></p></e>
+           <e><p><l>confuso<s n="adj"/></l><r>confuse<s n="adj"/></r></p></e>
+           <e><p><l>bravo<s n="adj"/></l><r>brave<s n="adj"/></r></p></e>
+           <e><p><l>gentil<s n="adj"/></l><r>gentil<s n="adj"/></r></p></e>
+           <e><p><l>estúpido<s n="adj"/><s n="mf"/><s n="sg"/></l><r>stupide<s n="adj"/></r></p></e>
+           <e><p><l>grande<s n="adj"/><s n="m"/><s n="sp"/></l><r>grande<s n="adj"/></r></p></e>
+           <e><p><l>terrestre<s n="adj"/><s n="mf"/></l><r>terrestre<s n="adj"/></r></p></e>
+           <e><p><l>exato<s n="adj"/></l><r>exacte<s n="adj"/></r></p></e>
+           <e><p><l>livre<s n="adj"/></l><r>libere<s n="adj"/></r></p></e>
+ 
+
+
+
+ 	    <e><p><l>um<s n="num"/></l><r>un<s n="num"/></r></p></e>
+            <e><p><l>dois<s n="num"/></l><r>duo<s n="num"/></r></p></e>
+            <e><p><l>três<s n="num"/></l><r>tres<s n="num"/></r></p></e>
+            <e><p><l>quatro<s n="num"/></l><r>quatro<s n="num"/></r></p></e>
+            <e><p><l>cinco<s n="num"/></l><r>cinque<s n="num"/></r></p></e>
+            <e><p><l>seis<s n="num"/></l><r>sex<s n="num"/></r></p></e>
+            <e><p><l>sete<s n="num"/></l><r>septe<s n="num"/></r></p></e>
+            <e><p><l>oito<s n="num"/></l><r>octo<s n="num"/></r></p></e>
+            <e><p><l>nove<s n="num"/></l><r>nove<s n="num"/></r></p></e>
+            <e><p><l>dez<s n="num"/></l><r>dece<s n="num"/></r></p></e>
+            <e><p><l>onze<s n="num"/></l><r>dece-un<s n="num"/></r></p></e>
+            <e><p><l>doze<s n="num"/></l><r>dece-duo<s n="num"/></r></p></e>
+            <e><p><l>treze<s n="num"/></l><r>dece-tres<s n="num"/></r></p></e>
+            <e><p><l>catorze<s n="num"/></l><r>dece-quatro<s n="num"/></r></p></e>
+            <e><p><l>quinze<s n="num"/></l><r>dece-cinque<s n="num"/></r></p></e>
+            <e><p><l>dezesseis<s n="num"/></l><r>dece-sex<s n="num"/></r></p></e>
+            <e><p><l>dezessete<s n="num"/></l><r>dece-septe<s n="num"/></r></p></e>
+            <e><p><l>dezoito<s n="num"/></l><r>dece-octo<s n="num"/></r></p></e>
+            <e><p><l>dezenove<s n="num"/></l><r>dece-nove<s n="num"/></r></p></e>
+            <e><p><l>vinte<s n="num"/></l><r>vinti<s n="num"/></r></p></e>
+            <e><p><l>vinte e um<s n="num"/></l><r>vinti-un<s n="num"/></r></p></e>
+            <e><p><l>vinte e dois<s n="num"/></l><r>vinti-duo<s n="num"/></r></p></e>
+            <e><p><l>vinte e três<s n="num"/></l><r>vinti-tres<s n="num"/></r></p></e>
+            <e><p><l>vinte e quatro<s n="num"/></l><r>vinti-quatro<s n="num"/></r></p></e>
+            <e><p><l>vinte e cinco<s n="num"/></l><r>vinti-cinque<s n="num"/></r></p></e>
+            <e><p><l>vinte e seis<s n="num"/></l><r>vinti-sex<s n="num"/></r></p></e>
+            <e><p><l>vinte e sete<s n="num"/></l><r>vinti-septe<s n="num"/></r></p></e>
+            <e><p><l>vinte e oito<s n="num"/></l><r>vinti-octo<s n="num"/></r></p></e>
+            <e><p><l>vinte e nove<s n="num"/></l><r>vinti-nove<s n="num"/></r></p></e>
+            <e><p><l>trinta<s n="num"/></l><r>trenta<s n="num"/></r></p></e>
+            <e><p><l>trinta e um<s n="num"/></l><r>trenta-un<s n="num"/></r></p></e>
+            <e><p><l>trinta e dois<s n="num"/></l><r>trenta-duo<s n="num"/></r></p></e>
+            <e><p><l>trinta e três<s n="num"/></l><r>trenta-tres<s n="num"/></r></p></e>
+            <e><p><l>trinta e quatro<s n="num"/></l><r>trenta-quatro<s n="num"/></r></p></e>
+            <e><p><l>trinta e cinco<s n="num"/></l><r>trenta-cinque<s n="num"/></r></p></e>
+            <e><p><l>trinta e seis<s n="num"/></l><r>trenta-sex<s n="num"/></r></p></e>
+            <e><p><l>trinta e sete<s n="num"/></l><r>trenta-septe<s n="num"/></r></p></e>
+            <e><p><l>trinta e oito<s n="num"/></l><r>trenta-octo<s n="num"/></r></p></e>
+            <e><p><l>trinta e nove<s n="num"/></l><r>trenta-nove<s n="num"/></r></p></e>
+            <e><p><l>quarenta<s n="num"/></l><r>quaranta<s n="num"/></r></p></e>
+            <e><p><l>quarenta e um<s n="num"/></l><r>quaranta-un<s n="num"/></r></p></e>
+            <e><p><l>quarenta e dois<s n="num"/></l><r>quaranta-duo<s n="num"/></r></p></e>
+            <e><p><l>quarenta e três<s n="num"/></l><r>quaranta-tres<s n="num"/></r></p></e>
+            <e><p><l>quarenta e quatro<s n="num"/></l><r>quaranta-quatro<s n="num"/></r></p></e>
+            <e><p><l>quarenta e cinco<s n="num"/></l><r>quaranta-cinque<s n="num"/></r></p></e>
+            <e><p><l>quarenta e seis<s n="num"/></l><r>quaranta-sex<s n="num"/></r></p></e>
+            <e><p><l>quarenta e sete<s n="num"/></l><r>quaranta-septe<s n="num"/></r></p></e>
+            <e><p><l>quarenta e oito<s n="num"/></l><r>quaranta-octo<s n="num"/></r></p></e>
+            <e><p><l>quarenta e nove<s n="num"/></l><r>quaranta-nove<s n="num"/></r></p></e>
+            <e><p><l>cinquenta<s n="num"/></l><r>cinquanta<s n="num"/></r></p></e>
+            <e><p><l>cinquenta e um<s n="num"/></l><r>cinquanta-un<s n="num"/></r></p></e>
+            <e><p><l>cinquenta e dois<s n="num"/></l><r>cinquanta-duo<s n="num"/></r></p></e>
+            <e><p><l>cinquenta e três<s n="num"/></l><r>cinquanta-tres<s n="num"/></r></p></e>
+            <e><p><l>cinquenta e quatro<s n="num"/></l><r>cinquanta-quatro<s n="num"/></r></p></e>
+            <e><p><l>cinquenta e cinco<s n="num"/></l><r>cinquanta-cinque<s n="num"/></r></p></e>
+            <e><p><l>cinquenta e seis<s n="num"/></l><r>cinquanta-sex<s n="num"/></r></p></e>
+            <e><p><l>cinquenta e sete<s n="num"/></l><r>cinquanta-septe<s n="num"/></r></p></e>
+            <e><p><l>cinquenta e oito<s n="num"/></l><r>cinquanta-octo<s n="num"/></r></p></e>
+            <e><p><l>cinquenta e nove<s n="num"/></l><r>cinquanta-nove<s n="num"/></r></p></e>
+            <e><p><l>sessenta<s n="num"/></l><r>sexanta<s n="num"/></r></p></e>
+            <e><p><l>sessenta e um<s n="num"/></l><r>sexanta-un<s n="num"/></r></p></e>
+            <e><p><l>sessenta e dois<s n="num"/></l><r>sexanta-duo<s n="num"/></r></p></e>
+            <e><p><l>sessenta e três<s n="num"/></l><r>sexanta-tres<s n="num"/></r></p></e>
+            <e><p><l>sessenta e quatro<s n="num"/></l><r>sexanta-quatro<s n="num"/></r></p></e>
+            <e><p><l>sessenta e cinco<s n="num"/></l><r>sexanta-cinque<s n="num"/></r></p></e>
+            <e><p><l>sessenta e seis<s n="num"/></l><r>sexanta-sex<s n="num"/></r></p></e>
+            <e><p><l>sessenta e sete<s n="num"/></l><r>sexanta-septe<s n="num"/></r></p></e>
+            <e><p><l>sessenta e oito<s n="num"/></l><r>sexanta-octo<s n="num"/></r></p></e>
+            <e><p><l>sessenta e nove<s n="num"/></l><r>sexanta-nove<s n="num"/></r></p></e>
+            <e><p><l>setenta<s n="num"/></l><r>septanta<s n="num"/></r></p></e>
+            <e><p><l>setenta e um<s n="num"/></l><r>septanta-un<s n="num"/></r></p></e>
+            <e><p><l>setenta e dois<s n="num"/></l><r>septanta-duo<s n="num"/></r></p></e>
+            <e><p><l>setenta e três<s n="num"/></l><r>septanta-tres<s n="num"/></r></p></e>
+            <e><p><l>setenta e quatro<s n="num"/></l><r>septanta-quatro<s n="num"/></r></p></e>
+            <e><p><l>setenta e cinco<s n="num"/></l><r>septanta-cinque<s n="num"/></r></p></e>
+            <e><p><l>setenta e seis<s n="num"/></l><r>septanta-sex<s n="num"/></r></p></e>
+            <e><p><l>setenta e sete<s n="num"/></l><r>septanta-septe<s n="num"/></r></p></e>
+            <e><p><l>setenta e oito<s n="num"/></l><r>septanta-octo<s n="num"/></r></p></e>
+            <e><p><l>setenta e nove<s n="num"/></l><r>septanta-nove<s n="num"/></r></p></e>
+            <e><p><l>oitenta<s n="num"/></l><r>octanta<s n="num"/></r></p></e>
+            <e><p><l>oitenta e um<s n="num"/></l><r>octanta-un<s n="num"/></r></p></e>
+            <e><p><l>oitenta e dois<s n="num"/></l><r>octanta-duo<s n="num"/></r></p></e>
+            <e><p><l>oitenta e três<s n="num"/></l><r>octanta-tres<s n="num"/></r></p></e>
+            <e><p><l>oitenta e quatro<s n="num"/></l><r>octanta-quatro<s n="num"/></r></p></e>
+            <e><p><l>oitenta e cinco<s n="num"/></l><r>octanta-cinque<s n="num"/></r></p></e>
+            <e><p><l>oitenta e seis<s n="num"/></l><r>octanta-sex<s n="num"/></r></p></e>
+            <e><p><l>oitenta e sete<s n="num"/></l><r>octanta-septe<s n="num"/></r></p></e>
+            <e><p><l>oitenta e oito<s n="num"/></l><r>octanta-octo<s n="num"/></r></p></e>
+            <e><p><l>oitenta e nove<s n="num"/></l><r>octanta-nove<s n="num"/></r></p></e>
+            <e><p><l>noventa<s n="num"/></l><r>novanta<s n="num"/></r></p></e>
+            <e><p><l>noventa e um<s n="num"/></l><r>novanta-un<s n="num"/></r></p></e>
+            <e><p><l>noventa e dois<s n="num"/></l><r>novanta-duo<s n="num"/></r></p></e>
+            <e><p><l>noventa e três<s n="num"/></l><r>novanta-tres<s n="num"/></r></p></e>
+            <e><p><l>noventa e quatro<s n="num"/></l><r>novanta-quatro<s n="num"/></r></p></e>
+            <e><p><l>noventa e cinco<s n="num"/></l><r>novanta-cinque<s n="num"/></r></p></e>
+            <e><p><l>noventa e seis<s n="num"/></l><r>novanta-sex<s n="num"/></r></p></e>
+            <e><p><l>noventa e sete<s n="num"/></l><r>novanta-septe<s n="num"/></r></p></e>
+            <e><p><l>noventa e oito<s n="num"/></l><r>novanta-octo<s n="num"/></r></p></e>
+            <e><p><l>noventa e nove<s n="num"/></l><r>novanta-nove<s n="num"/></r></p></e>
+            <e><p><l>cem<s n="num"/></l><r>cento<s n="num"/></r></p></e>
+
+
+
+
+
+
+
+
+
+
+      
    </section>
 </dictionary>
 
