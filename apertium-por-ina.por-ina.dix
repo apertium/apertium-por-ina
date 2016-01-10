@@ -127,6 +127,106 @@
            <e><p><l>vida<s n="n"/><s n="f"/></l><r>vita<s n="n"/></r></p></e>
            <e><p><l>science<s n="n"/><s n="f"/></l><r>scientia<s n="n"/></r></p></e>
            <e><p><l>arte<s n="n"/><s n="mf"/></l><r>arte<s n="n"/></r></p></e>
+           <e><p><l>aniversário<s n="n"/><s n="m"/></l><r>anniversario<s n="n"/></r></p></e>
+           <e><p><l>cerveja<s n="n"/><s n="f"/></l><r>bira<s n="n"/></r></p></e>
+           <e><p><l>avião<s n="n"/><s n="m"/></l><r>avion<s n="n"/></r></p></e>
+           <e><p><l>loja<s n="n"/><s n="f"/></l><r>boteca<s n="n"/></r></p></e>
+           <e><p><l>dúvida<s n="n"/><s n="f"/></l><r>dubita<s n="n"/></r></p></e>
+           <e><p><l>braço<s n="n"/><s n="m"/></l><r>brachio<s n="n"/></r></p></e>
+           <e><p><l>braçadeira<s n="n"/><s n="f"/></l><r>bracio<s n="n"/></r></p></e>
+           <e><p><l>escritório<s n="n"/><s n="m"/></l><r>bureau<s n="n"/></r></p></e>
+           <e><p><l>quarto<s n="n"/><s n="m"/></l><r>camera<s n="n"/></r></p></e>
+           <e><p><l>campo<s n="n"/><s n="m"/></l><r>campo<s n="n"/></r></p></e>
+           <e><p><l>cabelo<s n="n"/><s n="m"/></l><r>capillo<s n="n"/></r></p></e>
+           <e><p><l>cabeça<s n="n"/><s n="f"/></l><r>capite<s n="n"/></r></p></e>
+           <e><p><l>caso<s n="n"/><s n="m"/></l><r>caso<s n="n"/></r></p></e>
+           <e><p><l>causa<s n="n"/><s n="f"/></l><r>causa<s n="n"/></r></p></e>
+           <e><p><l>cidade<s n="n"/><s n="f"/></l><r>citate<s n="n"/></r></p></e>
+           <e><p><l>céu<s n="n"/><s n="m"/></l><r>celo<s n="n"/></r></p></e>
+           <e><p><l>pescoço<s n="n"/><s n="f"/></l><r>collo<s n="n"/></r></p></e>
+           <e><p><l>coração<s n="n"/><s n="f"/></l><r>corde<s n="n"/></r></p></e>
+           <e><p><l>corpo<s n="n"/><s n="f"/></l><r>corpore<s n="n"/></r></p></e>
+           <e><p><l>pele<s n="n"/><s n="f"/></l><r>cute<s n="n"/></r></p></e>
+           <e><p><l>voz<s n="n"/><s n="f"/></l><r>voce<s n="n"/></r></p></e>
+           <e><p><l>vidro<s n="n"/><s n="f"/></l><r>vitro<s n="n"/></r></p></e>
+           <e><p><l>vista<s n="n"/><s n="f"/></l><r>vista<s n="n"/></r></p></e>
+           <e><p><l>cara<s n="n"/><s n="f"/></l><r>visage<s n="n"/></r></p></e>
+           <e><p><l>vinho<s n="n"/><s n="f"/></l><r>vino<s n="n"/></r></p></e>
+           <e><p><l>estrada<s n="n"/><s n="f"/></l><r>via<s n="n"/></r></p></e>
+           <e><p><l>estômago<s n="n"/><s n="f"/></l><r>ventre<s n="n"/></r></p></e>
+           <e><p><l>testa<s n="n"/><s n="f"/></l><r>testa<s n="n"/></r></p></e>
+           <e><p><l>terra<s n="n"/><s n="f"/></l><r>terra<s n="n"/></r></p></e>
+           <e><p><l>estômago<s n="n"/><s n="f"/></l><r>stomacho<s n="n"/></r></p></e>
+           <e><p><l>estádio<s n="n"/><s n="f"/></l><r>stadio<s n="n"/></r></p></e>
+           <e><p><l>espelho<s n="n"/><s n="f"/></l><r>speculo<s n="n"/></r></p></e>
+           <e><p><l>irmã<s n="n"/><s n="f"/></l><r>soror<s n="n"/></r></p></e>
+           <e><p><l>empregado<s n="n"/><s n="f"/></l><r>servitor<s n="n"/></r></p></e>
+           <e><p><l>favor<s n="n"/><s n="f"/></l><r>favor<s n="n"/></r></p></e>
+           <e><p><l>semana<s n="n"/><s n="f"/></l><r>septimana<s n="n"/></r></p></e>
+           <e><p><l>Senhorita<s n="n"/><s n="f"/></l><r>senioretta<s n="n"/></r></p></e>
+           <e><p><l>Senhora<s n="n"/><s n="f"/></l><r>seniora<s n="n"/></r></p></e>
+           <e><p><l>senhor<s n="n"/><s n="f"/></l><r>senior<s n="n"/></r></p></e>
+           <e><p><l>século<s n="n"/><s n="f"/></l><r>seculo<s n="n"/></r></p></e>
+           <e><p><l>roda<s n="n"/><s n="f"/></l><r>rota<s n="n"/></r></p></e>
+           <e><p><l>restaurante<s n="n"/><s n="f"/></l><r>restaurante<s n="n"/></r></p></e>
+           <e><p><l>refeição<s n="n"/><s n="f"/></l><r>repasto<s n="n"/></r></p></e>
+           <e><p><l>reino<s n="n"/><s n="f"/></l><r>regno<s n="n"/></r></p></e>
+           <e><p><l>rainha<s n="n"/><s n="f"/></l><r>regina<s n="n"/></r></p></e>
+           <e><p><l>rei<s n="n"/><s n="f"/></l><r>rege<s n="n"/></r></p></e>
+           <e><p><l>razão<s n="n"/><s n="f"/></l><r>ration<s n="n"/></r></p></e>
+           <e><p><l>menino<s n="n"/><s n="f"/></l><r>puero<s n="n"/></r></p></e>
+           <e><p><l>menina<s n="n"/><s n="f"/></l><r>puera<s n="n"/></r></p></e>
+           <e><p><l>preço<s n="n"/><s n="f"/></l><r>precio<s n="n"/></r></p></e>
+           <e><p><l>pessoas<s n="n"/><s n="f"/></l><r>populo<s n="n"/></r></p></e>
+           <e><p><l>porta<s n="n"/><s n="f"/></l><r>porta<s n="n"/></r></p></e>
+           <e><p><l>pedra<s n="n"/><s n="f"/></l><r>petra<s n="n"/></r></p></e>
+           <e><p><l>perigo<s n="n"/><s n="f"/></l><r>periculo<s n="n"/></r></p></e>
+           <e><p><l>pausa<s n="n"/><s n="f"/></l><r>pausa<s n="n"/></r></p></e>
+           <e><p><l>batata<s n="n"/><s n="f"/></l><r>patata<s n="n"/></r></p></e>
+           <e><p><l>palavra<s n="n"/><s n="f"/></l><r>parola<s n="n"/></r></p></e>
+           <e><p><l>osso<s n="n"/><s n="f"/></l><r>osso<s n="n"/></r></p></e>
+           <e><p><l>obra<s n="n"/><s n="f"/></l><r>obra<s n="n"/></r></p></e>
+           <e><p><l>nome<s n="n"/><s n="f"/></l><r>nomine<s n="n"/></r></p></e>
+           <e><p><l>noite<s n="n"/><s n="f"/></l><r>nocte<s n="n"/></r></p></e>
+           <e><p><l>nariz<s n="n"/><s n="f"/></l><r>naso<s n="n"/></r></p></e>
+           <e><p><l>mundo<s n="n"/><s n="f"/></l><r>mundo<s n="n"/></r></p></e>
+           <e><p><l>dinheiro<s n="n"/><s n="f"/></l><r>moneta<s n="n"/></r></p></e>
+           <e><p><l>mente<s n="n"/><s n="f"/></l><r>mente<s n="n"/></r></p></e>
+           <e><p><l>mês<s n="n"/><s n="f"/></l><r>mense<s n="n"/></r></p></e>
+           <e><p><l>mar<s n="n"/><s n="f"/></l><r>mar<s n="n"/></r></p></e>
+           <e><p><l>mão<s n="n"/><s n="f"/></l><r>mano<s n="n"/></r></p></e>
+           <e><p><l>lugar<s n="n"/><s n="f"/></l><r>loco<s n="n"/></r></p></e>
+           <e><p><l>carta<s n="n"/><s n="f"/></l><r>littera<s n="n"/></r></p></e>
+           <e><p><l>língua<s n="n"/><s n="f"/></l><r>lingua<s n="n"/></r></p></e>
+           <e><p><l>lado<s n="n"/><s n="f"/></l><r>latere<s n="n"/></r></p></e>
+           <e><p><l>lágrima<s n="n"/><s n="f"/></l><r>lacrima<s n="n"/></r></p></e>
+           <e><p><l>lábio<s n="n"/><s n="f"/></l><r>labio<s n="n"/></r></p></e>
+           <e><p><l>pequeno almoço<s n="n"/><s n="f"/></l><r>jentaculo<s n="n"/></r></p></e>
+           <e><p><l>ombro<s n="n"/><s n="f"/></l><r>humero<s n="n"/></r></p></e>
+           <e><p><l>inverno<s n="n"/><s n="f"/></l><r>hiberno<s n="n"/></r></p></e>
+           <e><p><l>presunto<s n="n"/><s n="f"/></l><r>gambon<s n="n"/></r></p></e>
+           <e><p><l>perna<s n="n"/><s n="f"/></l><r>gamba<s n="n"/></r></p></e>
+           <e><p><l>fundo<s n="n"/><s n="f"/></l><r>fundo<s n="n"/></r></p></e>
+           <e><p><l>irmão<s n="n"/><s n="f"/></l><r>fratre<s n="n"/></r></p></e>
+           <e><p><l>fogo<s n="n"/><s n="f"/></l><r>foco<s n="n"/></r></p></e>
+           <e><p><l>fim<s n="n"/><s n="f"/></l><r>fin<s n="n"/></r></p></e>
+           <e><p><l>filho<s n="n"/><s n="f"/></l><r>filio<s n="n"/></r></p></e>
+           <e><p><l>filha<s n="n"/><s n="f"/></l><r>filia<s n="n"/></r></p></e>
+	   <e><p><l>facto<s n="n"/><s n="f"/></l><r>facto<s n="n"/></r></p></e>
+           <e><p><l>greve<s n="n"/><s n="f"/></l><r>exopere<s n="n"/></r></p></e>
+           <e><p><l>idade<s n="n"/><s n="f"/></l><r>estate<s n="n"/></r></p></e>
+           <e><p><l>meio-dia<s n="n"/><s n="f"/></l><r>mediedie<s n="n"/></r></p></e>
+	   <e><p><l>presente<s n="n"/><s n="f"/></l><r>dono<s n="n"/></r></p></e>
+           <e><p><l>dor<s n="n"/><s n="f"/></l><r>dolor<s n="n"/></r></p></e>
+           <e><p><l>tamanho<s n="n"/><s n="f"/></l><r>dimension<s n="n"/></r></p></e>
+           <e><p><l>dedo<s n="n"/><s n="f"/></l><r>digito<s n="n"/></r></p></e>
+  	   <e><p><l>dia<s n="n"/><s n="f"/></l><r>die<s n="n"/></r></p></e>
+           <e><p><l>dente<s n="n"/><s n="f"/></l><r>dente<s n="n"/></r></p></e>
+           <e><p><l>garganta<s n="n"/><s n="f"/></l><r>gorga<s n="n"/></r></p></e>
+
+
+
+
 
   <!-- Personal pronouns   -->
     
@@ -151,18 +251,24 @@
             <e><p><l>atualmente<s n="adv"/></l><r>actualmente<s n="adv"/></r></p></e>
 
             
-            <e r="LR"><p><l>o<s n="det"/><s n="def"/><s n="m"/><s n="sg"/></l><r>le<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
-            <e r="LR"><p><l>a<s n="det"/><s n="def"/><s n="f"/><s n="sg"/></l><r>le<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
 
+ 	   
 
-
+	    <e r="LR"><p><l>o<s n="det"/><s n="def"/><s n="m"/><s n="sg"/></l><r>le<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
+            <e r="LR"><p><l>o<s n="det"/><s n="def"/><s n="f"/><s n="sg"/></l><r>le<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
+            <e r="LR"><p><l>o<s n="det"/><s n="def"/><s n="mf"/><s n="pl"/></l><r>le<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
+           
             <e r="LR"><p><l>meu<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></l><r>mi<s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
             <e r="LR"><p><l>meu<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></l><r>mi<s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
+            <e r="LR"><p><l>meu<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>mi<s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
 
+
+
+            
 
 
             <e r="LR"><p><l>um<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></l><r>un<s n="det"/><s n="ind"/><s n="sp"/></r></p></e>
-            <e r="LR"><p><l>uma<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></l><r>un<s n="det"/><s n="ind"/><s n="sp"/></r></p></e>
+
        
 
            
