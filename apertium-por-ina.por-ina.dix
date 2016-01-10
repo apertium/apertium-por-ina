@@ -106,9 +106,9 @@
            <e><p><l>coisa<s n="n"/><s n="f"/></l><r>cosa<s n="n"/></r></p></e>
            <e><p><l>pássaro<s n="n"/><s n="m"/></l><r>ave<s n="n"/></r></p></e>
            <e><p><l>folha<s n="n"/><s n="f"/></l><r>folio<s n="n"/></r></p></e>
-           <e><p><l>floresta<s n="n"/><s n="m"/></l><r>foreste<s n="n"/></r></p></e>
-           <e><p><l>fruta<s n="n"/><s n="m"/></l><r>fructo<s n="n"/></r></p></e>
-           <e><p><l>criança<s n="n"/><s n="m"/></l><r>infante<s n="n"/></r></p></e>
+           <e><p><l>floresta<s n="n"/><s n="f"/></l><r>foreste<s n="n"/></r></p></e>
+           <e><p><l>fruta<s n="n"/><s n="f"/></l><r>fructo<s n="n"/></r></p></e>
+           <e><p><l>criança<s n="n"/><s n="f"/></l><r>infante<s n="n"/></r></p></e>
            <e><p><l>mulher<s n="n"/><s n="f"/></l><r>marita<s n="n"/></r></p></e>
            <e><p><l>marido<s n="n"/><s n="m"/></l><r>marito<s n="n"/></r></p></e>
            <e><p><l>mãe<s n="n"/><s n="f"/></l><r>matre<s n="n"/></r></p></e>
@@ -117,10 +117,9 @@
            <e><p><l>peixe<s n="n"/><s n="m"/></l><r>pisce<s n="n"/></r></p></e>
            <e><p><l>raiz<s n="n"/><s n="f"/></l><r>radice<s n="n"/></r></p></e>
            <e><p><l>semente<s n="n"/><s n="f"/></l><r>semine<s n="n"/></r></p></e>
-           <e><p><l>serpente<s n="n"/><s n="m"/></l><r>serpente<s n="n"/></r></p></e>
-           <e><p><l>verme<s n="n"/><s n="m"/></l><r>verme<s n="n"/></r></p></e>
+           <e><p><l>serpente<s n="n"/><s n="f"/></l><r>serpente<s n="n"/></r></p></e>
            <e><p><l>cavalo<s n="n"/><s n="m"/></l><r>equo<s n="n"/></r></p></e>
-           <e><p><l>carro<s n="n"/><s n="f"/></l><r>carro<s n="n"/></r></p></e>
+           <e><p><l>carro<s n="n"/><s n="m"/></l><r>carro<s n="n"/></r></p></e>
            <e><p><l>família<s n="n"/><s n="f"/></l><r>familia<s n="n"/></r></p></e>
            <e><p><l>casa<s n="n"/><s n="f"/></l><r>domo<s n="n"/></r></p></e>
            <e><p><l>campanha<s n="n"/><s n="f"/></l><r>campania<s n="n"/></r></p></e>
@@ -130,14 +129,7 @@
            <e><p><l>arte<s n="n"/><s n="mf"/></l><r>arte<s n="n"/></r></p></e>
 
   <!-- Personal pronouns   -->
-            <e><p><l>eu<s n="prn"/><s n="tn"/></l><r>io<s n="prn"/><s n="nom"/></r></p></e>
-            <e><p><l>tu<s n="prn"/><s n="tn"/></l><r>tu<s n="prn"/><s n="nom"/></r></p></e>
-            <e><p><l>ele<s n="prn"/><s n="tn"/></l><r>ill<s n="prn"/><s n="nom"/></r></p></e>
-            <e r="RL"><p><l>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="sg"/></l><r>illo<s n="prn"/><s n="nom"/></r></p></e>
-            <e><p><l>nós<s n="prn"/><s n="tn"/></l><r>nos<s n="prn"/><s n="nom"/></r></p></e>
-            <e><p><l>você<s n="prn"/><s n="tn"/></l><r>vos<s n="prn"/><s n="nom"/></r></p></e>
-            <e r="RL"><p><l>eles<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="pl"/></l><r>illos<s n="prn"/><s n="nom"/></r></p></e>
-
+    
             <e><p><l>excelente<s n="adj"/></l><r>excellente<s n="adj"/></r></p></e>
             <e><p><l>e<s n="cnjcoo"/></l><r>e<s n="cnjcoo"/></r></p></e>
             <e><p><l>ou<s n="cnjcoo"/></l><r>o<s n="cnjcoo"/></r></p></e>
@@ -161,22 +153,16 @@
             
             <e r="LR"><p><l>o<s n="det"/><s n="def"/><s n="m"/><s n="sg"/></l><r>le<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
             <e r="LR"><p><l>a<s n="det"/><s n="def"/><s n="f"/><s n="sg"/></l><r>le<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
-            <e r="LR"><p><l>os<s n="det"/><s n="def"/><s n="m"/><s n="pl"/></l><r>le<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
-            <e r="LR"><p><l>as<s n="det"/><s n="def"/><s n="f"/><s n="pl"/></l><r>le<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
+
+
 
             <e r="LR"><p><l>meu<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></l><r>mi<s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
             <e r="LR"><p><l>meu<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></l><r>mi<s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
-            <e r="LR"><p><l>meus<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>mi<s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
 
-            <e r="RL"><p><l>o<s n="det"/><s n="def"/><s n="nd"/><s n="gd"/></l><r>le<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
+
 
             <e r="LR"><p><l>um<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></l><r>un<s n="det"/><s n="ind"/><s n="sp"/></r></p></e>
             <e r="LR"><p><l>uma<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></l><r>un<s n="det"/><s n="ind"/><s n="sp"/></r></p></e>
-            <e r="LR"><p><l>uns<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></l><r>un<s n="det"/><s n="ind"/><s n="sp"/></r></p></e>
-	    <e r="LR"><p><l>umas<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></l><r>un<s n="det"/><s n="ind"/><s n="sp"/></r></p></e>
-
-            <e r="RL"><p><l>um<s n="det"/><s n="ind"/><s n="nd"/><s n="gd"/></l><r>un<s n="det"/><s n="ind"/><s n="sp"/></r></p></e>
-           
        
 
            

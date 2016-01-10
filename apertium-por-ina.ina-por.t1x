@@ -13,11 +13,6 @@
     <def-cat n="det">
       <cat-item tags="det.*"/>
     </def-cat>
-    <def-cat n="gros_adj">
-      <cat-item lemma="grand" tags="adj"/>
-      <cat-item lemma="gras" tags="*"/>
-      <cat-item lemma="bas" tags="*"/>
-    </def-cat>
     <def-cat n="verb">
       <cat-item tags="vblex.*"/>
       <cat-item tags="vbmod.*"/>
@@ -104,7 +99,6 @@
             </def-list>
     </section-def-lists>
     <section-def-macros>
-
     <def-macro n="adj_agreement" npar="2">
 <!-- par. 1: noun; par. 2: adj-->
           <choose>
@@ -143,7 +137,6 @@
     
 
 
-
   <section-rules>
     <rule comment="REGLA: SENT">
       <pattern>
@@ -159,6 +152,41 @@
               <clip pos="1" side="tl" part="whole"/>
             </lu>
           </chunk>
+        </out>
+      </action>
+    </rule>
+
+        <rule comment="RULE: conjugate NOM ADJ">
+          <pattern>
+        <pattern-item n="nom"/>
+<pattern-item n="adj"/>
+      </pattern>
+
+      <action>  
+          <call-macro n="adj_agreement">
+            <with-param pos="1"/>
+            <with-param pos="2"/>
+          </call-macro>
+
+        <out>
+        <chunk name="n">
+       <tags>
+         <tag><lit-tag v="SN"/></tag>
+       </tags>
+          <lu>
+            <clip pos="1" side="tl" part="lem"/>
+            <clip pos="1" side="tl" part="word_type"/>
+            <clip pos="1" side="tl" part="gender"/>
+            <clip pos="1" side="tl" part="nbr"/>
+          </lu>
+            <b/>
+          <lu>
+            <clip pos="2" side="tl" part="lem"/>
+            <clip pos="2" side="tl" part="word_type"/>
+            <var n="adj_gender"/>
+            <var n="adj_number"/>
+          </lu>
+            </chunk>
         </out>
       </action>
     </rule>
