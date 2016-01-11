@@ -223,6 +223,19 @@
   	   <e><p><l>dia<s n="n"/><s n="f"/></l><r>die<s n="n"/></r></p></e>
            <e><p><l>dente<s n="n"/><s n="f"/></l><r>dente<s n="n"/></r></p></e>
            <e><p><l>garganta<s n="n"/><s n="f"/></l><r>gorga<s n="n"/></r></p></e>
+           <e><p><l>federação<s n="n"/><s n="f"/></l><r>federation<s n="n"/></r></p></e>
+           <e><p><l>festa<s n="n"/><s n="f"/></l><r>festa<s n="n"/></r></p></e>
+           <e><p><l>garagem<s n="n"/><s n="m"/></l><r>garage<s n="n"/></r></p></e>
+           <e><p><l>general<s n="n"/><s n="m"/></l><r>general<s n="n"/></r></p></e>
+           <e><p><l>gênero<s n="n"/><s n="m"/></l><r>sorta<s n="n"/></r></p></e>
+           <e><p><l>serviço<s n="n"/><s n="m"/></l><r>servicio<s n="n"/></r></p></e>
+           <e><p><l>livro<s n="n"/><s n="m"/></l><r>libro<s n="n"/></r></p></e>
+           <e><p><l>literatura<s n="n"/><s n="f"/></l><r>litteratura<s n="n"/></r></p></e>
+           <e><p><l>convite<s n="n"/><s n="f"/></l><r>invitation<s n="n"/></r></p></e>
+           <e><p><l>conferência<s n="n"/><s n="f"/></l><r>conferentia<s n="n"/></r></p></e>
+           <e><p><l>rádio<s n="n"/><s n="f"/></l><r>radio<s n="n"/></r></p></e>
+          
+
 
 
 
@@ -239,6 +252,12 @@
             <e><p><l>em<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
             <e><p><l>de<s n="pr"/></l><r>de<s n="pr"/></r></p></e>
             <e><p><l>com<s n="pr"/></l><r>con<s n="pr"/></r></p></e>
+           <e><p><l>de<s n="pr"/></l><r>ab<s n="pr"/></r></p></e>
+           <e><p><l>antes<s n="pr"/></l><r>ante<s n="pr"/></r></p></e>
+           <e><p><l>de<s n="pr"/></l><r>ex<s n="pr"/></r></p></e>
+           <e><p><l>entre<s n="pr"/></l><r>inter<s n="pr"/></r></p></e>
+           <e><p><l>durante<s n="pr"/></l><r>durante<s n="pr"/></r></p></e>
+
 
             <e><p><l>muito<s n="preadv"/></l><r>multo<s n="preadv"/></r></p></e>
             <e><p><l>se<s n="cnjadv"/></l><r>si<s n="cnjadv"/></r></p></e>
@@ -246,6 +265,26 @@
             <e><p><l>não<s n="adv"/></l><r>non<s n="adv"/></r></p></e>
             <e><p><l>nem<s n="adv"/></l><r>jammais<s n="adv"/></r></p></e>
             <e><p><l>hoje<s n="adv"/></l><r>hodie<s n="adv"/></r></p></e>
+           <e><p><l>cerca de<s n="adv"/></l><r>circa<s n="adv"/></r></p></e>
+           <e><p><l>pior<s n="adv"/></l><r>pejo<s n="adv"/></r></p></e>
+           <e><p><l>muito<s n="adv"/></l><r>multo<s n="adv"/></r></p></e>
+           <e><p><l>também<s n="adv"/></l><r>etiam<s n="adv"/></r></p></e>
+           <e><p><l>mesmo assim<s n="cnjadv"/></l><r>nonobstante<s n="adv"/></r></p></e>
+           <e><p><l>exatamente<s n="adv"/></l><r>exactemente<s n="adv"/></r></p></e>
+           <e><p><l>além de<s n="pr"/></l><r>extra<s n="adv"/></r></p></e>
+           <e><p><l>ontem<s n="adv"/></l><r>heri<s n="adv"/></r></p></e>
+           <e><p><l>aqui<s n="adv"/></l><r>hic<s n="adv"/></r></p></e>
+           <e><p><l>abaixo<s n="adv"/></l><r>infra<s n="adv"/></r></p></e>
+           <e><p><l>junto<s n="adv"/></l><r>insimul<s n="adv"/></r></p></e>
+           <e><p><l>entretanto<s n="cnjadv"/></l><r>interim<s n="adv"/></r></p></e>
+           <e><p><l>melhor<s n="adv"/></l><r>melio<s n="adv"/></r></p></e>
+           <e><p><l>onde<s n="adv"/></l><r>ubi<s n="adv"/></r></p></e>
+           <e><p><l>bastante<s n="adv"/></l><r>bastante<s n="adv"/></r></p></e>
+           <e><p><l>bem<s n="adv"/></l><r>ben<s n="adv"/></r></p></e>
+           <e><p><l>ali<s n="adv"/></l><r>ibi<s n="adv"/></r></p></e>
+           <e><p><l>possivelmente<s n="adv"/></l><r>forsan<s n="adv"/></r></p></e>
+           <e><p><l>perto<s n="adv"/></l><r>presso<s n="adv"/></r></p></e>
+
 
             <e><p><l>mais<s n="adv"/></l><r>plus<s n="preadv"/></r></p></e>
             <e><p><l>atualmente<s n="adv"/></l><r>actualmente<s n="adv"/></r></p></e>
@@ -429,6 +468,45 @@
            <e><p><l>terrestre<s n="adj"/><s n="mf"/></l><r>terrestre<s n="adj"/></r></p></e>
            <e><p><l>exato<s n="adj"/></l><r>exacte<s n="adj"/></r></p></e>
            <e><p><l>livre<s n="adj"/></l><r>libere<s n="adj"/></r></p></e>
+           <e><p><l>alto<s n="adj"/></l><r>alte<s n="adj"/></r></p></e>
+           <e><p><l>baixo<s n="adj"/></l><r>basse<s n="adj"/></r></p></e>
+           <e><p><l>bastante<s n="adj"/></l><r>bastante<s n="adj"/></r></p></e>
+           <e><p><l>breve<s n="adj"/></l><r>breve<s n="adj"/></r></p></e>
+           <e><p><l>breve<s n="adj"/></l><r>curte<s n="adj"/></r></p></e>
+           <e><p><l>fraco<s n="adj"/></l><r>debile<s n="adj"/></r></p></e>
+           <e><p><l>difícil<s n="adj"/></l><r>difficile<s n="adj"/></r></p></e>            		   <e><p><l>estranho<s n="adj"/></l><r>estranie<s n="adj"/></r></p></e>
+           <e><p><l>caro<s n="adj"/></l><r>expensive<s n="adj"/></r></p></e>
+           <e><p><l>fácil<s n="adj"/></l><r>facile<s n="adj"/></r></p></e>
+           <e><p><l>cansado<s n="adj"/></l><r>fatigate<s n="adj"/></r></p></e>
+           <e><p><l>feliz<s n="adj"/></l><r>felice<s n="adj"/></r></p></e>
+           <e><p><l>forte<s n="adj"/></l><r>forte<s n="adj"/></r></p></e>
+           <e><p><l>frio<s n="adj"/></l><r>frigide<s n="adj"/></r></p></e>
+           <e><p><l>inteiro<s n="adj"/></l><r>integre<s n="adj"/></r></p></e>
+           <e><p><l>jovem<s n="adj"/></l><r>juvene<s n="adj"/></r></p></e>
+           <e><p><l>amplo<s n="adj"/></l><r>large<s n="adj"/></r></p></e>
+           <e><p><l>lento<s n="adj"/></l><r>lente<s n="adj"/></r></p></e>
+           <e><p><l>leve<s n="adj"/></l><r>leve<s n="adj"/></r></p></e>
+           <e><p><l>grande<s n="adj"/></l><r>longe<s n="adj"/></r></p></e>
+           <e><p><l>mesmo<s n="adj"/></l><r>mesme<s n="adj"/></r></p></e>
+           <e><p><l>minúsculo<s n="adj"/></l><r>micre<s n="adj"/></r></p></e>
+           <e><p><l>pequeno<s n="adj"/></l><r>molle<s n="adj"/></r></p></e>
+           <e><p><l>muito<s n="adj"/></l><r>multe<s n="adj"/></r></p></e>
+           <e><p><l>limpo<s n="adj"/></l><r>nette<s n="adj"/></r></p></e>
+           <e><p><l>pequeno<s n="adj"/></l><r>parve<s n="adj"/></r></p></e>
+           <e><p><l>pobre<s n="adj"/></l><r>paupere<s n="adj"/></r></p></e>
+           <e><p><l>pesado<s n="adj"/></l><r>pesante<s n="adj"/></r></p></e>
+           <e><p><l>pobre<s n="adj"/></l><r>povre<s n="adj"/></r></p></e>
+           <e><p><l>rápido<s n="adj"/></l><r>preste<s n="adj"/></r></p></e>
+           <e><p><l>rápido<s n="adj"/></l><r>rapide<s n="adj"/></r></p></e>
+           <e><p><l>estrangeiro<s n="adj"/></l><r>estranier<s n="adj"/></r></p></e>
+           <e><p><l>claro<s n="adj"/></l><r>legier<s n="adj"/></r></p></e>
+           <e><p><l>mau<s n="adj"/></l><r>mal<s n="adj"/></r></p></e>
+           <e><p><l>melhor<s n="adj"/></l><r>melior<s n="adj"/></r></p></e>
+           <e><p><l>pior<s n="adj"/></l><r>pejor<s n="adj"/></r></p></e>
+           <e><p><l>rico<s n="adj"/></l><r>ricmente<s n="adj"/></r></p></e>
+           <e><p><l>saudável<s n="adj"/></l><r>san<s n="adj"/></r></p></e>
+           <e><p><l>seguro<s n="adj"/></l><r>secur<s n="adj"/></r></p></e>
+
  
 
 
