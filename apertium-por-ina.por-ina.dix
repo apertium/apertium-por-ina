@@ -322,6 +322,92 @@
            <e><p><l>deixar<s n="vblex"/></l><r>lassar<s n="vblex"/></r></p></e>
            <e><p><l>receber<s n="vblex"/></l><r>reciper<s n="vblex"/></r></p></e>            
            <e><p><l>responder<s n="vblex"/></l><r>responder<s n="vblex"/></r></p></e>
+           <e><p><l>acender<s n="vblex"/></l><r>accender<s n="vblex"/></r></p></e>
+           <e><p><l>agir<s n="vblex"/></l><r>ager<s n="vblex"/></r></p></e>
+           <e><p><l>vender<s n="vblex"/></l><r>vender<s n="vblex"/></r></p></e>
+           <e><p><l>traduzir<s n="vblex"/></l><r>traducer<s n="vblex"/></r></p></e>
+           <e><p><l>supor<s n="vblex"/></l><r>supponer<s n="vblex"/></r></p></e>
+           <e><p><l>escolher<s n="vblex"/></l><r>seliger<s n="vblex"/></r></p></e>
+           <e><p><l>escrever<s n="vblex"/></l><r>scriber<s n="vblex"/></r></p></e>
+           <e><p><l>juntar<s n="vblex"/></l><r>junger<s n="vblex"/></r></p></e>
+           <e><p><l>repetir<s n="vblex"/></l><r>repeter<s n="vblex"/></r></p></e>
+           <e><p><l>permanecer<s n="vblex"/></l><r>remaner<s n="vblex"/></r></p></e>
+           <e><p><l>expressar<s n="vblex"/></l><r>exprimer<s n="vblex"/></r></p></e>
+           <e><p><l>sugerir<s n="vblex"/></l><r>proponer<s n="vblex"/></r></p></e>
+ 	   <e><p><l>prometer<s n="vblex"/></l><r>promitter<s n="vblex"/></r></p></e>
+           <e><p><l>pôr<s n="vblex"/></l><r>mitter<s n="vblex"/></r></p></e>
+           <e><p><l>pôr<s n="vblex"/></l><r>poner<s n="vblex"/></r></p></e>
+           <e><p><l>reunir<s n="vblex"/></l><r>colliger<s n="vblex"/></r></p></e>
+           <e><p><l>agradar<s n="vblex"/></l><r>placer<s n="vblex"/></r></p></e>
+           <e><p><l>perguntar<s n="vblex"/></l><r>peter<s n="vblex"/></r></p></e>
+           <e><p><l>pertencer<s n="vblex"/></l><r>pertiner<s n="vblex"/></r></p></e>
+           <e><p><l>perder<s n="vblex"/></l><r>perder<s n="vblex"/></r></p></e>
+           <e><p><l>aparecer<s n="vblex"/></l><r>parer<s n="vblex"/></r></p></e>
+           <e><p><l>acontecer<s n="vblex"/></l><r>occurrer<s n="vblex"/></r></p></e>
+           <e><p><l>obter<s n="vblex"/></l><r>obtener<s n="vblex"/></r></p></e>
+           <e><p><l>nascer<s n="vblex"/></l><r>nascer<s n="vblex"/></r></p></e>
+           <e><p><l>mover<s n="vblex"/></l><r>mover<s n="vblex"/></r></p></e>
+           <e><p><l>mentir<s n="vblex"/></l><r>jacer<s n="vblex"/></r></p></e>
+           <e><p><l>imprimir<s n="vblex"/></l><r>imprimer<s n="vblex"/></r></p></e>
+           <e><p><l>comprar<s n="vblex"/></l><r>emer<s n="vblex"/></r></p></e>
+           <e><p><l>liderar<s n="vblex"/></l><r>ducer<s n="vblex"/></r></p></e>
+           <e><p><l>desaparecer<s n="vblex"/></l><r>disparer<s n="vblex"/></r></p></e>
+           <e><p><l>crescer<s n="vblex"/></l><r>crescer<s n="vblex"/></r></p></e>
+           <e><p><l>conter<s n="vblex"/></l><r>continer<s n="vblex"/></r></p></e>
+           <e><p><l>fechar<s n="vblex"/></l><r>clauder<s n="vblex"/></r></p></e>
+           <e><p><l>cair<s n="vblex"/></l><r>cader<s n="vblex"/></r></p></e>
+           <e><p><l>derrotar<s n="vblex"/></l><r>batter<s n="vblex"/></r></p></e>
+           <e><p><l>ajudar<s n="vblex"/></l><r>adjutar<s n="vblex"/></r></p></e>
+           <e><p><l>voar<s n="vblex"/></l><r>volar<s n="vblex"/></r></p></e>
+           <e><p><l>visitar<s n="vblex"/></l><r>visitar<s n="vblex"/></r></p></e>
+           <e><p><l>viajar<s n="vblex"/></l><r>viagiar<s n="vblex"/></r></p></e>
+           <e><p><l>usar<s n="vblex"/></l><r>usar<s n="vblex"/></r></p></e>
+           <e><p><l>tratar<s n="vblex"/></l><r>tractar<s n="vblex"/></r></p></e>
+   	   <e><p><l>tocar<s n="vblex"/></l><r>toccar<s n="vblex"/></r></p></e>
+           <e><p><l>trabalhar<s n="vblex"/></l><r>travaliar<s n="vblex"/></r></p></e>
+           <e><p><l>virar<s n="vblex"/></l><r>tornar<s n="vblex"/></r></p></e>
+           <e><p><l>tirar<s n="vblex"/></l><r>tirar<s n="vblex"/></r></p></e>
+           <e><p><l>esperar<s n="vblex"/></l><r>sperar<s n="vblex"/></r></p></e>
+           <e><p><l>custar<s n="vblex"/></l><r>costar<s n="vblex"/></r></p></e>
+           <e><p><l>olhar<s n="vblex"/></l><r>reguardar<s n="vblex"/></r></p></e>
+           <e><p><l>lamentar<s n="vblex"/></l><r>regrettar<s n="vblex"/></r></p></e>
+           <e><p><l>agradecer<s n="vblex"/></l><r>regratiar<s n="vblex"/></r></p></e>
+           <e><p><l>impulsionar<s n="vblex"/></l><r>pulsar<s n="vblex"/></r></p></e>
+           <e><p><l>provar<s n="vblex"/></l><r>probar<s n="vblex"/></r></p></e>
+           <e><p><l>carregar<s n="vblex"/></l><r>portar<s n="vblex"/></r></p></e>
+           <e><p><l>pagar<s n="vblex"/></l><r>pagar<s n="vblex"/></r></p></e>
+           <e><p><l>esquecer<s n="vblex"/></l><r>oblidar<s n="vblex"/></r></p></e>
+ 	   <e><p><l>mencionar<s n="vblex"/></l><r>mentionar<s n="vblex"/></r></p></e>           
+           <e><p><l>jogar<s n="vblex"/></l><r>jocar<s n="vblex"/></r></p></e>
+           <e><p><l>faltar<s n="vblex"/></l><r>mancar<s n="vblex"/></r></p></e>
+           <e><p><l>levantar<s n="vblex"/></l><r>levar<s n="vblex"/></r></p></e>
+           <e><p><l>lavar<s n="vblex"/></l><r>lavar<s n="vblex"/></r></p></e>
+           <e><p><l>lançar<s n="vblex"/></l><r>jectar<s n="vblex"/></r></p></e>
+           <e><p><l>enviar<s n="vblex"/></l><r>inviar<s n="vblex"/></r></p></e>
+           <e><p><l>ensinar<s n="vblex"/></l><r>inseniar<s n="vblex"/></r></p></e>
+           <e><p><l>encontrar<s n="vblex"/></l><r>incontrar<s n="vblex"/></r></p></e>
+           <e><p><l>apressar<s n="vblex"/></l><r>hastar<s n="vblex"/></r></p></e>
+	   <e><p><l>ganhar<s n="vblex"/></l><r>ganiar<s n="vblex"/></r></p></e>
+           <e><p><l>fundar<s n="vblex"/></l><r>fundar<s n="vblex"/></r></p></e>
+           <e><p><l>forçar<s n="vblex"/></l><r>fortiar<s n="vblex"/></r></p></e>
+           <e><p><l>comprar<s n="vblex"/></l><r>comprar<s n="vblex"/></r></p></e>
+           <e><p><l>parar<s n="vblex"/></l><r>cessar<s n="vblex"/></r></p></e>
+           <e><p><l>esconder<s n="vblex"/></l><r>celar<s n="vblex"/></r></p></e>
+           <e><p><l>caçar<s n="vblex"/></l><r>caciar<s n="vblex"/></r></p></e>
+           <e><p><l>voltar<s n="vblex"/></l><r>revenir<s n="vblex"/></r></p></e>
+           <e><p><l>sentir<s n="vblex"/></l><r>sentir<s n="vblex"/></r></p></e>
+           <e><p><l>sair<s n="vblex"/></l><r>sortir<s n="vblex"/></r></p></e>
+           <e><p><l>impedir<s n="vblex"/></l><r>impedir<s n="vblex"/></r></p></e>
+           <e><p><l>terminar<s n="vblex"/></l><r>finir<s n="vblex"/></r></p></e>
+           <e><p><l>acontecer<s n="vblex"/></l><r>evenir<s n="vblex"/></r></p></e>
+ 	   <e><p><l>cobrir<s n="vblex"/></l><r>coperir<s n="vblex"/></r></p></e>
+           <e><p><l>caber<s n="vblex"/></l><r>convenir<s n="vblex"/></r></p></e>
+           <e><p><l>ferir<s n="vblex"/></l><r>ferir<s n="vblex"/></r></p></e>
+
+
+
+
+
 
 
      
