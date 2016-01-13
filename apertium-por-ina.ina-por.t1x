@@ -205,7 +205,7 @@
             <clip pos="1" side="tl" part="lem"/>
             <clip pos="1" side="tl" part="word_type"/>
             <clip pos="1" side="tl" part="defindef"/>
-            <clip pos="2" side="tl" part="gender"/>
+            <clip pos="2" side="tl" part="gender"/> 
             <clip pos="2" side="tl" part="nbr"/>
           </lu>
           <b />
