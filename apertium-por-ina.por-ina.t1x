@@ -19,9 +19,6 @@
     <def-cat n="det">
       <cat-item tags="det.*"/>
     </def-cat>
-    <def-cat n="pos">
-      <cat-item tags="det.pos.*"/>
-    </def-cat>
     <def-cat n="adj">
       <cat-item tags="adj.*"/>
     </def-cat>
@@ -39,6 +36,11 @@
             <attr-item tags="sg"/>
             <attr-item tags="pl"/>
             <attr-item tags="sp"/>
+        </def-attr>
+        <def-attr n="detclass">
+            <attr-item tags="def"/>
+            <attr-item tags="ind"/>
+            <attr-item tags="pos"/>
         </def-attr>
         <def-attr n="a_nom">
            <attr-item tags="n"/>
@@ -71,9 +73,6 @@
         <def-attr n="case">
            <attr-item tags="nom"/>
         </def-attr>
- 	<def-attr n="poss">
-		<attr-item tags="det.pos"/>
-	</def-attr>
     <def-attr n="word_type">
       <attr-item tags="prn"/>
       <attr-item tags="vblex"/>
@@ -238,35 +237,7 @@
           <lu>
             <clip pos="1" side="tl" part="lem"/>
             <clip pos="1" side="tl" part="word_type"/>
-            <clip pos="1" side="tl" part="defindef"/>
-            <clip pos="1" side="tl" part="nbr"/> <!-- always .sp -->
-          </lu>
-          <b />
-          <lu>
-            <clip pos="2" side="tl" part="lem"/>
-            <clip pos="2" side="tl" part="word_type"/>
-            <clip pos="2" side="tl" part="gender"/>
-            <clip pos="2" side="tl" part="nbr"/>
-          </lu>
-            </chunk>
-        </out>
-      </action>
-    </rule>
- <rule comment="RULE: agree possessives">
-      <pattern>
-        <pattern-item n="pos"/>
-        <pattern-item n="nom"/>
-      </pattern>
-      <action>
-        <out>
-                    <chunk name="n">
-       <tags>
-         <tag><lit-tag v="SN"/></tag>
-       </tags>
-          <lu>
-            <clip pos="1" side="tl" part="lem"/>
-            <clip pos="1" side="tl" part="word_type"/>
-            <clip pos="1" side="tl" part="poss"/>
+            <clip pos="1" side="tl" part="detclass"/>
             <clip pos="1" side="tl" part="nbr"/> <!-- always .sp -->
           </lu>
           <b />
