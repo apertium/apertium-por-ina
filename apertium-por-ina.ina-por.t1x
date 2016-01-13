@@ -219,7 +219,80 @@
         </out>
       </action>
     </rule>
-       
+    <rule comment="RULE: conjugate verbs">
+          <pattern>
+        <pattern-item n="nom"/>
+        <pattern-item n="verb"/>
+      </pattern>
+
+      <action>  
+
+
+        <out>
+        <chunk name="n">
+       <tags>
+         <tag><lit-tag v="SN"/></tag>
+       </tags>
+          <lu>
+            <clip pos="1" side="tl" part="lem"/>
+            <clip pos="1" side="tl" part="word_type"/>
+            <clip pos="1" side="tl" part="pers"/>
+            <clip pos="1" side="tl" part="gender"/>
+            <clip pos="1" side="tl" part="nbr"/>
+          </lu>
+          <b/>
+          <lu>
+            <clip pos="2" side="tl" part="lem"/>
+            <clip pos="2" side="tl" part="word_type"/>
+            <clip pos="2" side="tl" part="temps"/>
+            <lit-tag v="p3"/>
+            <clip pos="1" side="tl" part="nbr"/>
+          </lu>
+            </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="RULE: conjugate DET NOM VERB">
+<pattern>
+        <pattern-item n="det"/>
+        <pattern-item n="nom"/>
+        <pattern-item n="verb"/>
+      </pattern>
+
+      <action>  
+
+
+        <out>
+        <chunk name="n">
+       <tags>
+         <tag><lit-tag v="SN.SV"/></tag>
+       </tags>
+          <lu>
+            <clip pos="1" side="tl" part="lem"/>
+            <clip pos="1" side="tl" part="word_type"/>
+            <clip pos="1" side="tl" part="defindef"/>
+            <clip pos="2" side="tl" part="gender"/>
+            <clip pos="2" side="tl" part="nbr"/>
+          </lu>
+          <b />
+          <lu>
+            <clip pos="2" side="tl" part="lem"/>
+            <clip pos="2" side="tl" part="word_type"/>
+            <clip pos="2" side="tl" part="gender"/>
+            <clip pos="2" side="tl" part="nbr"/>
+          </lu>
+          <b />
+          <lu>
+            <clip pos="3" side="tl" part="lem"/>
+            <clip pos="3" side="tl" part="word_type"/>
+            <clip pos="3" side="tl" part="temps"/>
+            <lit-tag v="p3"/>
+            <clip pos="2" side="tl" part="nbr"/>
+          </lu>
+            </chunk>
+        </out>
+      </action>
+    </rule>
   
   </section-rules>
 </transfer>
