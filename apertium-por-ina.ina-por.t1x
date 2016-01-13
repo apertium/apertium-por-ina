@@ -13,9 +13,6 @@
     <def-cat n="det">
       <cat-item tags="det.*"/>
     </def-cat>
-    <def-cat n="pos">
-      <cat-item tags="det.pos.*"/>
-    </def-cat>
     <def-cat n="verb">
       <cat-item tags="vblex.*"/>
       <cat-item tags="vbmod.*"/>
@@ -56,9 +53,6 @@
     </def-attr>
     <def-attr n="tn">
         <attr-item tags="tn"/> 
-    </def-attr>
-    <def-attr n="poss">
-        <attr-item tags="pos"/> 
     </def-attr>
 
               <def-attr n="nbr">
@@ -258,6 +252,50 @@
             </chunk>
         </out>
       </action>
+    </rule>
+          <rule comment="RULE: conjugate DET NOM ADJ">
+      <pattern>
+        <pattern-item n="det"/>
+         <pattern-item n="nom"/>
+          <pattern-item n="adj"/>
+
+      </pattern>
+
+      <action>
+            <call-macro n="adj_agreement">
+            <with-param pos="2"/>
+            <with-param pos="3"/>
+          </call-macro>
+        <out>
+        <chunk name="det_nom_verb">
+       <tags>
+         <tag><lit-tag v="SN.SV"/></tag>
+       </tags>
+          <lu>
+            <clip pos="1" side="tl" part="lem"/>
+            <clip pos="1" side="tl" part="word_type"/>
+            <clip pos="1" side="tl" part="defindef"/>
+            <clip pos="2" side="tl" part="gender"/>
+            <clip pos="2" side="tl" part="nbr"/>
+          </lu>
+          <b />
+          <lu>
+            <clip pos="2" side="tl" part="lem"/>
+            <clip pos="2" side="tl" part="word_type"/>
+            <clip pos="2" side="tl" part="gender"/>
+            <clip pos="2" side="tl" part="nbr"/>
+          </lu>
+          <b />
+          <lu>
+            <clip pos="3" side="tl" part="lem"/>
+            <clip pos="3" side="tl" part="word_type"/>
+            <var n="adj_gender"/>
+            <var n="adj_number"/>
+            </lu>
+            </chunk>
+        </out>
+
+              </action>
     </rule>
     <rule comment="RULE: conjugate DET NOM VERB">
 <pattern>
