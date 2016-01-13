@@ -13,6 +13,9 @@
     <def-cat n="det">
       <cat-item tags="det.*"/>
     </def-cat>
+    <def-cat n="pos">
+      <cat-item tags="det.pos.*"/>
+    </def-cat>
     <def-cat n="verb">
       <cat-item tags="vblex.*"/>
       <cat-item tags="vbmod.*"/>
@@ -54,6 +57,9 @@
     <def-attr n="tn">
         <attr-item tags="tn"/> 
     </def-attr>
+    <def-attr n="poss">
+        <attr-item tags="pos"/> 
+    </def-attr>
 
               <def-attr n="nbr">
             <attr-item tags="sg"/>
@@ -72,6 +78,7 @@
     <def-attr n="defindef">
       <attr-item tags="def"/>
       <attr-item tags="ind"/>
+      <attr-item tags="pos"/>
     </def-attr>
            
 
