@@ -299,9 +299,9 @@
             <e><p><l>o<s n="det"/><s n="def"/><s n="f"/><s n="pl"/></l><r>le<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
 
            
-            <e r="LR"><p><l>meu<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></l><r>mi<s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
-            <e r="LR"><p><l>meu<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></l><r>mi<s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
-            <e r="LR"><p><l>meu<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>mi<s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
+            <e><p><l>meu<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></l><r>mi<s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
+            <e><p><l>meu<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></l><r>mi<s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
+            <e><p><l>meu<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>mi<s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
 
 
 
