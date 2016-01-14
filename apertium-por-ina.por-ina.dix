@@ -133,7 +133,7 @@
            <e><p><l>loja<s n="n"/><s n="f"/></l><r>boteca<s n="n"/></r></p></e>
            <e><p><l>dúvida<s n="n"/><s n="f"/></l><r>dubita<s n="n"/></r></p></e>
            <e><p><l>braço<s n="n"/><s n="m"/></l><r>brachio<s n="n"/></r></p></e>
-           <e><p><l>braçadeira<s n="n"/><s n="f"/></l><r>bracio<s n="n"/></r></p></e>
+           <e><p><l>abraçadeira<s n="n"/><s n="f"/></l><r>bracio<s n="n"/></r></p></e>
            <e><p><l>escritório<s n="n"/><s n="m"/></l><r>bureau<s n="n"/></r></p></e>
            <e><p><l>quarto<s n="n"/><s n="m"/></l><r>camera<s n="n"/></r></p></e>
            <e><p><l>campo<s n="n"/><s n="m"/></l><r>campo<s n="n"/></r></p></e>
@@ -226,14 +226,14 @@
            <e><p><l>federação<s n="n"/><s n="f"/></l><r>federation<s n="n"/></r></p></e>
            <e><p><l>festa<s n="n"/><s n="f"/></l><r>festa<s n="n"/></r></p></e>
            <e><p><l>garagem<s n="n"/><s n="f"/></l><r>garage<s n="n"/></r></p></e>
-           <e><p><l>general<s n="n"/><s n="m"/></l><r>general<s n="n"/></r></p></e>
+           <e><p><l>general<s n="n"/><s n="mf"/></l><r>general<s n="n"/></r></p></e>
            <e><p><l>gênero<s n="n"/><s n="m"/></l><r>sorta<s n="n"/></r></p></e>
            <e><p><l>serviço<s n="n"/><s n="m"/></l><r>servicio<s n="n"/></r></p></e>
            <e><p><l>livro<s n="n"/><s n="m"/></l><r>libro<s n="n"/></r></p></e>
            <e><p><l>literatura<s n="n"/><s n="f"/></l><r>litteratura<s n="n"/></r></p></e>
            <e><p><l>convite<s n="n"/><s n="m"/></l><r>invitation<s n="n"/></r></p></e>
            <e><p><l>conferência<s n="n"/><s n="f"/></l><r>conferentia<s n="n"/></r></p></e>
-           <e><p><l>rádio<s n="n"/><s n="m"/></l><r>radio<s n="n"/></r></p></e>
+           <e><p><l>rádio<s n="n"/><s n="f"/></l><r>radio<s n="n"/></r></p></e>
           
 
 
@@ -265,7 +265,7 @@
             <e><p><l>não<s n="adv"/></l><r>non<s n="adv"/></r></p></e>
             <e><p><l>nem<s n="adv"/></l><r>jammais<s n="adv"/></r></p></e>
             <e><p><l>hoje<s n="adv"/></l><r>hodie<s n="adv"/></r></p></e>
-           <e><p><l>cerca de<s n="adv"/></l><r>circa<s n="adv"/></r></p></e>
+           <e><p><l>cerca de<s n="pr"/></l><r>circa<s n="adv"/></r></p></e>
            <e><p><l>pior<s n="adv"/></l><r>pejo<s n="adv"/></r></p></e>
            <e><p><l>muito<s n="adv"/></l><r>multo<s n="adv"/></r></p></e>
            <e><p><l>também<s n="adv"/></l><r>etiam<s n="adv"/></r></p></e>
@@ -482,7 +482,6 @@
            <e><p><l>difícil<s n="adj"/></l><r>difficile<s n="adj"/></r></p></e>            		   <e><p><l>estranho<s n="adj"/></l><r>estranie<s n="adj"/></r></p></e>
            <e><p><l>caro<s n="adj"/></l><r>expensive<s n="adj"/></r></p></e>
            <e><p><l>fácil<s n="adj"/></l><r>facile<s n="adj"/></r></p></e>
-           <e><p><l>cansado<s n="adj"/></l><r>fatigate<s n="adj"/></r></p></e>
            <e><p><l>feliz<s n="adj"/></l><r>felice<s n="adj"/></r></p></e>
            <e><p><l>forte<s n="adj"/></l><r>forte<s n="adj"/></r></p></e>
            <e><p><l>frio<s n="adj"/></l><r>frigide<s n="adj"/></r></p></e>
@@ -493,7 +492,6 @@
            <e><p><l>leve<s n="adj"/></l><r>leve<s n="adj"/></r></p></e>
            <e><p><l>grande<s n="adj"/></l><r>longe<s n="adj"/></r></p></e>
            <e><p><l>mesmo<s n="adj"/></l><r>mesme<s n="adj"/></r></p></e>
-           <e><p><l>minúsculo<s n="adj"/></l><r>micre<s n="adj"/></r></p></e>
            <e><p><l>pequeno<s n="adj"/></l><r>molle<s n="adj"/></r></p></e>
            <e><p><l>muito<s n="adj"/></l><r>multe<s n="adj"/></r></p></e>
            <e><p><l>limpo<s n="adj"/></l><r>nette<s n="adj"/></r></p></e>
