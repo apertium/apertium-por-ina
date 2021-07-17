@@ -1,0 +1,10 @@
+{
+    "ina-por-regression": {
+        "input": "ina-por-regression-input.txt",
+        "mode": "ina-por"
+    },
+    "por-ina-regression": {
+        "input": "por-ina-regression-input.txt",
+        "mode": "por-ina"
+    }
+}

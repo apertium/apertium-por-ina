@@ -1,0 +1,12 @@
+[CF9P-qO6PO1v#0] ^Eu<prn><tn><p1><mf><sg>/Io<prn><nom><p1><mf><sg>$ ^comer<vblex><pri><p1><sg>/mangiar<vblex><pri><p1><sg>$ ^coisa<n><f><pl>/cosa<n><pl>$.
+[/CF9P-qO6PO1v]
+[IDP7pE0lkaLI#0] ^Eu<prn><tn><p1><mf><sg>/Io<prn><nom><p1><mf><sg>$ ^ter<vblex><pri><p1><sg>/haber<vblex><pri><p1><sg>$ ^cem<num><mf><sp>/cento<num><mf><sp>$ ^casa<n><f><pl>/domo<n><pl>$
+[/IDP7pE0lkaLI]
+[PzzpGawqxRIo#0] ^Um<det><ind><m><sg>/Un<det><ind><sp>$ ^homem<n><m><sg>/homine<n><sg>$ ^falar<vblex><pri><p3><sg>/parlar<vblex><pri><p3><sg>$.
+[/PzzpGawqxRIo]
+[S0oaM0-Lx82G#0] ^casa<n><f><sg>/domo<n><sg>$ ^bonito<adj><f><sg>/belle<adj><f><sg>$
+[/S0oaM0-Lx82G]
+[bDi7suAtCTBi#0] ^O<det><def><f><sg>/Le<det><def><sp>$ ^casa<n><f><sg>/domo<n><sg>$ ^e<cnjcoo>/e<cnjcoo>$ ^muito<preadv>/multo<preadv>$ ^grande<adj><mf><sg>/longe<adj><mf><sg>$.
+[/bDi7suAtCTBi]
+[bhRpi2hsjEMc#0] ^Um<det><ind><m><sg>/Un<det><ind><sp>$ ^animal<n><m><sg>/animal<n><sg>$ ^comer<vblex><pri><p3><sg>/mangiar<vblex><pri><p3><sg>$.
+[/bhRpi2hsjEMc]

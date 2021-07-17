@@ -1,0 +1,12 @@
+[CF9P-qO6PO1v#0] ^prn<SN>{^<prn><nom><p1><mf><sg>$}$ ^vb<SV>{^<vblex><pri>$}$ ^n<SN>{^<n><pl>$}$.
+[/CF9P-qO6PO1v]
+[IDP7pE0lkaLI#0] ^prn<SN>{^<prn><nom><p1><mf><sg>$}$ ^vb<SV>{^<vblex><pri>$}$ ^adj<ADJ>{^<num>$}$ ^n<SN>{^<n><pl>$}$
+[/IDP7pE0lkaLI]
+[PzzpGawqxRIo#0] ^n<SN>{^<det><ind><sp>$ ^<n><sg>$}$ ^vb<SV>{^<vblex><pri>$}$.
+[/PzzpGawqxRIo]
+[S0oaM0-Lx82G#0] ^n<SN>{^<n><sg>$}$ ^n<SN>{^<adj>$}$
+[/S0oaM0-Lx82G]
+[bDi7suAtCTBi#0] ^n<SN>{^<det><def><sp>$ ^<n><sg>$}$ ^default<default>{^e<cnjcoo>$}$ ^default<default>{^multo<preadv>$}$ ^n<SN>{^<adj>$}$.
+[/bDi7suAtCTBi]
+[bhRpi2hsjEMc#0] ^n<SN>{^<det><ind><sp>$ ^<n><sg>$}$ ^vb<SV>{^<vblex><pri>$}$.
+[/bhRpi2hsjEMc]

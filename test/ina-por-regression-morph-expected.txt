@@ -1,0 +1,12 @@
+[5C6Jt920rNNf#0] ^Un/un<det><ind><sp>$ ^animal/animal<n><sg>$ ^mangia/mangiar<vblex><pri>/mangiar<vblex><imp>$.
+[/5C6Jt920rNNf]
+[HH-9NsEiwxDl#0] ^Un/un<det><ind><sp>$ ^homine/homine<n><sg>$ ^parla/parlar<vblex><pri>/parlar<vblex><imp>$.
+[/HH-9NsEiwxDl]
+[H_HCsbdIxRv1#0] ^Io/*Io$ ^habe/*habe$ ^cento/cento<num>$ ^domos/domo<n><pl>$
+[/H_HCsbdIxRv1]
+[UfFp-RCAMoMb#0] ^domo/domo<n><sg>$ ^belle/belle<adj>$
+[/UfFp-RCAMoMb]
+[nunVt6SNa-TS#0] ^Le/le<det><def><sp>$ ^domo/domo<n><sg>$ ^e/e<cnjcoo>$ ^multo/multo<preadv>/multo<adv>$ ^longe/longe<adj>$.
+[/nunVt6SNa-TS]
+[rl0enpX80yjL#0] ^Io/*Io$ ^mangia/mangiar<vblex><pri>/mangiar<vblex><imp>$ ^cosas/cosa<n><pl>$.
+[/rl0enpX80yjL]

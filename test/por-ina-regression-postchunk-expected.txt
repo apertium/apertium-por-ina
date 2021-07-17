@@ -1,0 +1,12 @@
+[CF9P-qO6PO1v#0] ^<prn><nom><p1><mf><sg>$ ^<vblex><pri>$ ^<n><pl>$.
+[/CF9P-qO6PO1v]
+[IDP7pE0lkaLI#0] ^<prn><nom><p1><mf><sg>$ ^<vblex><pri>$ ^<num>$ ^<n><pl>$
+[/IDP7pE0lkaLI]
+[PzzpGawqxRIo#0] ^<det><ind><sp>$ ^<n><sg>$ ^<vblex><pri>$.
+[/PzzpGawqxRIo]
+[S0oaM0-Lx82G#0] ^<n><sg>$ ^<adj>$
+[/S0oaM0-Lx82G]
+[bDi7suAtCTBi#0] ^<det><def><sp>$ ^<n><sg>$ ^e<cnjcoo>$ ^multo<preadv>$ ^<adj>$.
+[/bDi7suAtCTBi]
+[bhRpi2hsjEMc#0] ^<det><ind><sp>$ ^<n><sg>$ ^<vblex><pri>$.
+[/bhRpi2hsjEMc]

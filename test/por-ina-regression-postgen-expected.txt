@@ -1,0 +1,12 @@
+[CF9P-qO6PO1v#0] #\<prn\> #\<vblex\> #\<n\>.
+[/CF9P-qO6PO1v]
+[IDP7pE0lkaLI#0] #\<prn\> #\<vblex\> #\<num\> #\<n\>
+[/IDP7pE0lkaLI]
+[PzzpGawqxRIo#0] #\<det\> #\<n\> #\<vblex\>.
+[/PzzpGawqxRIo]
+[S0oaM0-Lx82G#0] #\<n\> #\<adj\>
+[/S0oaM0-Lx82G]
+[bDi7suAtCTBi#0] #\<det\> #\<n\> e multo #\<adj\>.
+[/bDi7suAtCTBi]
+[bhRpi2hsjEMc#0] #\<det\> #\<n\> #\<vblex\>.
+[/bhRpi2hsjEMc]

@@ -1,0 +1,12 @@
+[5C6Jt920rNNf#0] ^n<SN><SV>{^Um<det><ind><m><sg>$ ^animal<n><m><sg>$ ^comer<vblex><pri><p3><sg>$}$.
+[/5C6Jt920rNNf]
+[HH-9NsEiwxDl#0] ^n<SN><SV>{^Um<det><ind><m><sg>$ ^homem<n><m><sg>$ ^falar<vblex><pri><p3><sg>$}$.
+[/HH-9NsEiwxDl]
+[H_HCsbdIxRv1#0] ^unknown<unknown>{^*Io$}$ ^unknown<unknown>{^*habe$}$ ^default<default>{^cem<num>$}$ ^default<default>{^casa<n><f><pl>$}$
+[/H_HCsbdIxRv1]
+[UfFp-RCAMoMb#0] ^n<SN>{^casa<n><f><sg>$ ^bonito<adj><f><sg>$}$
+[/UfFp-RCAMoMb]
+[nunVt6SNa-TS#0] ^n<SN>{^O<det><def><f><sg>$ ^casa<n><f><sg>$}$ ^default<default>{^e<cnjcoo>$}$ ^default<default>{^muito<preadv>$}$ ^default<default>{^grande<adj>$}$.
+[/nunVt6SNa-TS]
+[rl0enpX80yjL#0] ^unknown<unknown>{^*Io$}$ ^default<default>{^comer<vblex><pri>$}$ ^default<default>{^coisa<n><f><pl>$}$.
+[/rl0enpX80yjL]

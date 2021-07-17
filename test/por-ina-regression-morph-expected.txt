@@ -1,0 +1,12 @@
+[CF9P-qO6PO1v#0] ^Eu/eu<prn><tn><p1><mf><sg>$ ^como/comer<vblex><pri><p1><sg>$ ^coisas/coisa<n><f><pl>$.
+[/CF9P-qO6PO1v]
+[IDP7pE0lkaLI#0] ^Eu/eu<prn><tn><p1><mf><sg>$ ^tenho/ter<vblex><pri><p1><sg>$ ^cem/cem<num><mf><sp>$ ^casas/casa<n><f><pl>$
+[/IDP7pE0lkaLI]
+[PzzpGawqxRIo#0] ^Um/um<num><m><sp>/um<det><ind><m><sg>$ ^homem/homem<n><m><sg>$ ^fala/falar<vblex><imp><p2><sg>/falar<vblex><pri><p3><sg>$.
+[/PzzpGawqxRIo]
+[S0oaM0-Lx82G#0] ^casa/casa<n><f><sg>$ ^bonita/bonito<adj><f><sg>$
+[/S0oaM0-Lx82G]
+[bDi7suAtCTBi#0] ^A/o<det><def><f><sg>$ ^casa/casa<n><f><sg>$ ^e/e<cnjcoo>$ ^muito/muito<adv>/muito<preadv>/muito<adj><m><sg>$ ^grande/grande<adj><mf><sg>$.
+[/bDi7suAtCTBi]
+[bhRpi2hsjEMc#0] ^Um/um<num><m><sp>/um<det><ind><m><sg>$ ^animal/animal<n><m><sg>$ ^come/comer<vblex><imp><p2><sg>/comer<vblex><pri><p3><sg>$.
+[/bhRpi2hsjEMc]

@@ -1,0 +1,12 @@
+[CF9P-qO6PO1v#0] ^Eu<prn><tn><p1><mf><sg>$ ^comer<vblex><pri><p1><sg>$ ^coisa<n><f><pl>$.
+[/CF9P-qO6PO1v]
+[IDP7pE0lkaLI#0] ^Eu<prn><tn><p1><mf><sg>$ ^ter<vblex><pri><p1><sg>$ ^cem<num><mf><sp>$ ^casa<n><f><pl>$
+[/IDP7pE0lkaLI]
+[PzzpGawqxRIo#0] ^Um<det><ind><m><sg>$ ^homem<n><m><sg>$ ^falar<vblex><pri><p3><sg>$.
+[/PzzpGawqxRIo]
+[S0oaM0-Lx82G#0] ^casa<n><f><sg>$ ^bonito<adj><f><sg>$
+[/S0oaM0-Lx82G]
+[bDi7suAtCTBi#0] ^O<det><def><f><sg>$ ^casa<n><f><sg>$ ^e<cnjcoo>$ ^muito<preadv>$ ^grande<adj><mf><sg>$.
+[/bDi7suAtCTBi]
+[bhRpi2hsjEMc#0] ^Um<det><ind><m><sg>$ ^animal<n><m><sg>$ ^comer<vblex><pri><p3><sg>$.
+[/bhRpi2hsjEMc]
